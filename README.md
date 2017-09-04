@@ -8,7 +8,7 @@ Do not use it as a ransomware!
 
 Run:
 
-use flags -en|-encrypt PATH_TO_DIRECTORY -key 'YOUR 16 BIT-KEY' -> for encryption
+use flags -en|-encrypt PATH_TO_DIRECTORY -key 'YOUR 16 BIT-KEY' -> for encryption <p>
 use flags -de|-decrypt PATH_TO_DIRECTORY -key 'YOUR 16 BIT-KEY' -> for decryption
 
 Build:
