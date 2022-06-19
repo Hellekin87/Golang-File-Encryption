@@ -2,7 +2,6 @@
 
 
 Encrypt and decrypt all files within a directory. This Software may be used only for Educational Purposes.
-Do not use it as a ransomware! 
 
 <h1>Run & Build</h1>
 
